@@ -1,0 +1,11 @@
+Model Information:
+* title:	SU-33 Flanker-D
+* source:	https://sketchfab.com/3d-models/su-33-flanker-d-3d3e2c35670f4ebcbe5566e016e2473c
+* author:	ᗩᒪE᙭. Kᗩ.🚗 (https://sketchfab.com/Alex.Ka.)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SU-33 Flanker-D" (https://sketchfab.com/3d-models/su-33-flanker-d-3d3e2c35670f4ebcbe5566e016e2473c) by ᗩᒪE᙭. Kᗩ.🚗 (https://sketchfab.com/Alex.Ka.) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
